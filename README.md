@@ -66,7 +66,7 @@ It follows a complete end-to-end data analytics workflow — from raw data proce
 
 📈 Dashboard
 
-![Dashboard](Screenshot%202026-04-29%20022343.png)
+![Dashboard](Screenshot%202026-04-29%20030424.png)
 
 🚀 Results
 
